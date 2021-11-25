@@ -1,6 +1,6 @@
-author  : Dinesh Dileep
-email   : dineshdileep@gmail.com
-webpage : http://www.ece.iisc.ernet.in/~dileep
+author  : Siddhesh Khavanekar
+email   : khavanekar@hotmail.com
+
 
 
 Hi, this folder contains m-files i created for extracting features from a image containing a SINGLE
@@ -47,7 +47,5 @@ Load the mat file letter_skel.mat, it includes samples of training set, i used f
 %matA1 is one among the variables.
 ------------------------------------------------------------------------------------------------------------------------------
 
-for any queries mail me at: dineshdileep@gmail.com or raman_dileep@yahoo.co.in
-visit my homepage at http://www.ece.iisc.ernet.in/~dileep
 
 
